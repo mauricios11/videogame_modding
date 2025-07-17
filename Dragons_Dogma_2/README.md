@@ -5,7 +5,7 @@
 
 <div class="alert alert-info">
     <b style="font-size: 1.5em;">🔍 instalation guide</i></b>
-        <li>Go to [this link](https://www.fluffyquack.com/) and install the **fluffy mod manager** <img src="./img/press_this_icon.png"></li>
+        <li>Go to <a href="https://www.fluffyquack.com/">this link</a> and install the **fluffy mod manager** <img src="./img/press_this_icon.png"></li>
         <li>un pack using [7 zip](https://www.7-zip.org/) or [winrar](https://www.winrar.es/descargas)</li>
         <li>make a new directory with any name you want and unzip the downloaded file</li>
         <li>open<b>Modmanager.exe</b> and select <i>Dragon's Dogma 2</i> in the game list</li>
