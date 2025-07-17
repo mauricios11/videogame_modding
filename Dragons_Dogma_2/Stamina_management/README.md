@@ -1,0 +1,2 @@
+stamina management
+
