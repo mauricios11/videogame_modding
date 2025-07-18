@@ -17,8 +17,7 @@ I believe video games have evolved into a powerful cultural product, a snapshot 
 
 ---
 
-## 🚀 How to Download & Install Mods
-
+## 🚀 Where to find them:
 All mods are distributed exclusively through the **[Releases Page](https://github.com/mauricios11/videogame_modding/releases)**. This ensures you always get stable, versioned packages.
 
 1.  **Go to the [Releases Page](https://github.com/mauricios11/videogame_modding/releases).** 2.  Find the mod you want and click on its latest version.
@@ -27,7 +26,7 @@ All mods are distributed exclusively through the **[Releases Page](https://githu
 
 ---
 
-## 🎮 Available Mods
+## 🎮 Available releases
 
 ### 🐉 Dragon's Dogma 2
 
