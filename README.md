@@ -41,7 +41,7 @@ A collection of my mods for Dragon's Dogma 2. For detailed descriptions and inst
 
 <br/>
 
-*I have some ideas cooking for stellar blade(rigging & QoL project) and Monster Hunter wilds*
+*I have some ideas cooking for **stellar blade**(rigging & QoL project) and **Monster Hunter wilds***
 
 
 ## 🐞 Bug Reports & Suggestions
