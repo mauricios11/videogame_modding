@@ -3,7 +3,7 @@ name: 🐞 Bug Report
 about: Create a report to help us improve a project.
 title: "[BUG] A brief, clear title of the bug"
 labels: 'bug'
-assignees: ''
+assignees: 'mauricios11'
 
 ---
 
