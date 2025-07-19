@@ -20,10 +20,9 @@ A clear and concise description of what the bug is.
 
 **3. Steps to Reproduce**
 Steps to reproduce the behavior:
--(a) Step 1
--(b) Step 2
--(c) Step 3
--(d) *bug found*
+- (a) Step 1
+- (c) Step 2
+- (d) *bug found*
 
 **4. Expected behavior**
 A clear and concise description of what you expected to happen.
@@ -33,7 +32,7 @@ A clear and concise description of what actually happened.
 *(Screenshots or videos are extremely helpful! Drag and drop them here.)*
 
 **6. Context (please complete the following information):**
-- **Project Version:** [e.g., 1.2]
+- **Project Version:** [e.g., 1.1]
 - **Game Version (if applicable):** [e.g., Dragon's Dogma v1.52]
 - **Other Mods/Tools Used (if applicable):**
 
