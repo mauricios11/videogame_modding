@@ -1,30 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/your-banner-image.png" alt="Modding Projects"/>
-</p>
-
-<h1 align="center">Modding Projects</h1>
-
-<p align="center">
-  This is my personal workshop where I craft and share mods for some of some games. My focus is primarily on enhancing gameplay through physics tweaks and **quality-of-life** improvements like resource management.
-</p>
-
-Every mod in this repository began as a personal project, born from my own desire to tweak and enhance my gameplay experience. After seeing them come to life, I thought it would be a wonderful idea to share them with a community that might enjoy them as much as I do.
-
-### Why mods?
-> For me, playing a video game is like stepping into another world to write your own story. Modding takes that experience to a whole new level. It starts with a thought—"What if this mechanic was slightly different? What if these physics felt more impactful?"—and blossoms into the deeply gratifying challenge of bringing your own idea to life within that established universe. Seeing your personal touch successfully integrated into a world you love is often even more rewarding than the game itself.
-
-I believe video games have evolved into a powerful cultural product, a snapshot of our times that reflects our joys, fears, and our state-of-the-art, much like the great artistic movements of the past. Modding is our way of adding our own brushstrokes to these digital canvases.
-
----
-
-## 🚀 Where to find them:
 All mods are distributed exclusively through the **[Releases Page](https://github.com/mauricios11/videogame_modding/releases)**. This ensures you always get stable, versioned packages.
-
-1.  **Go to the [Releases Page](https://github.com/mauricios11/videogame_modding/releases).** 2.  Find the mod you want and click on its latest version.
-3.  Under the **`Assets`** section, download the `.zip` or `.rar` file.
-4.  Each mod has its own detailed installation guide. Please read it carefully! You can find it in the mod's folder within this repository.
-
----
 
 ## 🎮 Available releases
 
