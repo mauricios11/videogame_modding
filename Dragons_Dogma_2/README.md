@@ -7,16 +7,6 @@
   <strong>Important:</strong> This mods require the prerequisites listed below to function correctly.
 </p>
 
-## 🛠️ Available Mods for Dragon's Dogma 2
-
-Below is the list of mods available. Click on a mod's name to go to its dedicated folder and find the detailed `README` with full installation instructions.
-
-| Mod Name                                       | Status      | Brief Description                                                                                             |
-| ---------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------- |
-| **Infinite Stamina** | ✅ Released  | Never run out of stamina while exploring! The mod deactivates during combat to preserve game balance.         |
-| **Enhanced Physics** | ✅ Released  | Overhauls ragdoll and character physics for more dynamic, impactful, and satisfying movements and combat hits. |
-| **Stamina Regen Boost**| 🛠️ WIP       | Increases stamina regeneration speed. Will feature multiple configurable versions (e.g., +25%, +50%).        |
-
 ---
 
 ## ✅ Prerequisites *(install these first)*
@@ -66,6 +56,15 @@ Simply deactivate or delete the mod from your mod manager.
 #### 🤔 Having Issues?
 If you encounter any problems, feel free to **[raise an issue](https://github.com/mauricios11/videogame_modding/issues)** in the corresponding tab. *Please note that the mod may need to be updated after major game patches*
 
+## 🛠️ Available Mods for Dragon's Dogma 2
+
+Below is the list of mods available. Click on a mod's name to go to its dedicated folder and find the detailed `README` with full installation instructions.
+
+| Mod Name                                       | Status      | Brief Description                                                                                             |
+| ---------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------- |
+| **Infinite Stamina** | ✅ Released  | Never run out of stamina while exploring! The mod deactivates during combat to preserve game balance.         |
+| **Enhanced Physics** | ✅ Released  | Overhauls ragdoll and character physics for more dynamic, impactful, and satisfying movements and combat hits. |
+| **Stamina Regen Boost**| 🛠️ WIP       | Increases stamina regeneration speed. Will feature multiple configurable versions (e.g., +25%, +50%).        |
 
 
 
