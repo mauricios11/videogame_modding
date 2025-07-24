@@ -9,8 +9,8 @@ A collection of my mods for Dragon's Dogma 2. For detailed descriptions and inst
 | Mod Name                                       | Status      | Summary                                                 |
 | ---------------------------------------------- | ----------- | ------------------------------------------------------- |
 | **Enhanced Physics** | ✅ Released  | More dynamic and impactful character physics.           |
-| **Infinite Stamina** | ✅ Released  | Infinite stamina for exploration, normal for combat.    |
-| **Stamina Regen Boost** | 🛠️ WIP       | Faster stamina regeneration with multiple options.      |
+| **Infinite Stamina** | ✅ Released  | Cancels stamina usage during normal walking, backs to vanilla mode in combat.    |
+| **Stamina Regen Boost** | 🛠️ WIP    | Faster stamina regeneration with multiple options.      |
                     
 
 <br/>
